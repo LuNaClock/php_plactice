@@ -1,9 +1,9 @@
-PHPについて、Geminiや動画で学習した内容をまとめたリポジトリです。
+## PHPについて、Geminiや動画で学習した内容をまとめたリポジトリです。
 
-学習した動画:https://youtu.be/HNHjpmdPFNU?si=rcrLBejjMOPXQFBv
-→PHPの入門動画、1:58:00辺りまで視聴済み
+学習した動画:https://youtu.be/HNHjpmdPFNU?si=rcrLBejjMOPXQFBv<br>
+→PHPの入門動画、1:58:00辺りまで視聴済み<br>
 
-以下はGeminiとの初回のやりとり
+以下はGeminiとの初回のやりとり<br>
 ↓
 
 PHPを使った簡単なWebアプリを作成したいです。
