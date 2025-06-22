@@ -3,6 +3,8 @@
 学習した動画:https://youtu.be/HNHjpmdPFNU?si=rcrLBejjMOPXQFBv<br>
 →PHPの入門動画、1:58:00辺りまで視聴済み<br>
 
+### なお、各課題フォルダには、Q&A.mdとしてGeminiとのやり取りを記録したファイルを配置しています。
+
 以下はGeminiとの初回のやりとり<br>
 ↓
 
