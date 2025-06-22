@@ -1,3 +1,11 @@
+PHPについて、Geminiや動画で学習した内容をまとめたリポジトリです。
+
+学習した動画:https://youtu.be/HNHjpmdPFNU?si=rcrLBejjMOPXQFBv
+→PHPの入門動画、1:58:00辺りまで視聴済み
+
+以下はGeminiとの初回のやりとり
+↓
+
 PHPを使った簡単なWebアプリを作成したいです。
 作成目的はPHPの知識0からの学習目的です。
 どのようなものが考えられる？
