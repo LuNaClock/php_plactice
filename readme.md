@@ -1,7 +1,7 @@
 ## PHPについて、Geminiや動画で学習した内容をまとめたリポジトリです。
 
 学習した動画:https://youtu.be/HNHjpmdPFNU?si=rcrLBejjMOPXQFBv<br>
-→PHPの入門動画、1:58:00辺りまで視聴済み<br>
+→PHPの入門動画、全視聴済み<br>
 
 ### 各課題フォルダには、Q&A.mdとしてGeminiとのやり取りを記録したファイルを配置しています。
 ### また、各やりとりをGeminiに読み込ませて要点整理したものを、study.mdとして配置しています。
